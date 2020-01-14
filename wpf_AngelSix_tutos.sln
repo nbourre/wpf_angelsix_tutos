@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpf_first_try", "wpf_first_try\wpf_first_try.csproj", "{BD1C0062-958C-473B-81F7-3153DD0EB9A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wpf_basics", "wpf_basics\wpf_basics.csproj", "{C9C6CB9E-E46F-401C-8F96-D98B4E01DACC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wpf_mvvm_basics", "wpf_mvvm_basics\wpf_mvvm_basics.csproj", "{2FF8A345-4EBD-4D7E-A80F-63F213977B55}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wpf_treeviews_and_converters", "wpf_treeviews_and_converters\wpf_treeviews_and_converters.csproj", "{03BBAC50-4ACF-410C-BD4E-E35D52B8F87A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Description = Source : https://www.youtube.com/playlist?list=PLrW43fNmjaQVYF4zgsD0oL9Iv6u23PI6M
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD1C0062-958C-473B-81F7-3153DD0EB9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1C0062-958C-473B-81F7-3153DD0EB9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1C0062-958C-473B-81F7-3153DD0EB9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1C0062-958C-473B-81F7-3153DD0EB9A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9C6CB9E-E46F-401C-8F96-D98B4E01DACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C6CB9E-E46F-401C-8F96-D98B4E01DACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C6CB9E-E46F-401C-8F96-D98B4E01DACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C6CB9E-E46F-401C-8F96-D98B4E01DACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FF8A345-4EBD-4D7E-A80F-63F213977B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF8A345-4EBD-4D7E-A80F-63F213977B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF8A345-4EBD-4D7E-A80F-63F213977B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF8A345-4EBD-4D7E-A80F-63F213977B55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03BBAC50-4ACF-410C-BD4E-E35D52B8F87A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03BBAC50-4ACF-410C-BD4E-E35D52B8F87A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03BBAC50-4ACF-410C-BD4E-E35D52B8F87A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03BBAC50-4ACF-410C-BD4E-E35D52B8F87A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83E33F59-DF4D-409C-BD56-1BE9E8B7E069}
+	EndGlobalSection
+EndGlobal

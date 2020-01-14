@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\drive.png" />
+    <None Remove="images\file.png" />
+    <None Remove="images\folder-closed.png" />
+    <None Remove="images\folder-open.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\drive.png" />
+    <Resource Include="images\file.png" />
+    <Resource Include="images\folder-closed.png" />
+    <Resource Include="images\folder-open.png" />
+  </ItemGroup>
+
+</Project>
